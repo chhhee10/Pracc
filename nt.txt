@@ -1,2 +1,2 @@
 New text file created
-changed on remote repo
+changes on remote repo
